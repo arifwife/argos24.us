@@ -6,7 +6,7 @@ PASS='argosus_dmob';
 DBNAME='argosus_dmob';
 PORT_TCP='5666';
 PORT_UDP='5666';
-SUB_DOMAIN=s2av.argos24.us
+SUB_DOMAIN=ombm.argos24.us
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
