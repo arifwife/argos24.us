@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='172.104.51.65';
+USER='argosus_dmob';
+PASS='argosus_dmob';
+DBNAME='argosus_dmob';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
