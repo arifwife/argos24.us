@@ -1,0 +1,15 @@
+#!/bin/bash
+#Script Variables
+HOST='172.104.51.65';
+USER='argosus_dmob';
+PASS='argosus_dmob';
+DBNAME='argosus_dmob';
+PORT_TCP='5666';
+PORT_UDP='5666';
+DOMAIN=argos24.us
+CF_ZONE=c2eb51b3129c5525641e0b75bfe324f6
+CF_ID=mamuntelecome@gmail.com
+CF_KEY=b5325d51e7343fa8f77e4628d1af5612dd855
+MYIP=$(wget -qO- icanhazip.com);
+server_ip=$(curl -s https://api.ipify.org)
+404: Not Found
